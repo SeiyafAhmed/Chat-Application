@@ -12,13 +12,13 @@ This repository contains a Python-based chat application, enabling users to comm
 * **Socket:** A fundamental networking library in Python, providing low-level access to networking interfaces for communication.
 * **Threading:** A built-in Python library used for implementing concurrency in applications, crucial for handling multiple connections simultaneously.
 
-Usage:
+**Usage:**
 1.	Clone this repository to your local machine.
 2.	Run the server script to start the chat server.
 3.	Connect clients to the server using the client script.
 4.	Start chatting! Use the provided commands to send individual or broadcast messages.
 
-**Contributing: **Contributions are welcome! Whether you're fixing bugs, adding new features, or improving documentation, feel free to submit pull requests to enhance this chat application.
+**Contributing:** Contributions are welcome! Whether you're fixing bugs, adding new features, or improving documentation, feel free to submit pull requests to enhance this chat application.
 
 **License:** This project is licensed under the MIT License, granting users the freedom to use, modify, and distribute the code as they see fit.
 
